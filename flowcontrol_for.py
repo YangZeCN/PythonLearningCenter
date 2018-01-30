@@ -4,7 +4,7 @@ Author: Yang Ze
 Created: 2018.01.30
 Last Modified:
 Version: V1.0
-Description: An example for for...in
+Description: An example for for...in with break, continus, etc.
 '''
 
 # Basic example for for loop and range function
