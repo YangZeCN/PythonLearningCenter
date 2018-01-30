@@ -1,9 +1,11 @@
-# Name: flowcontrol_for.py
-# Author: Yang Ze
-# Created: 2018.01.30
-# Last Modified:
-# Version: V1.0
-# Description: An example for for...in
+'''
+Name: flowcontrol_for.py
+Author: Yang Ze
+Created: 2018.01.30
+Last Modified:
+Version: V1.0
+Description: An example for for...in
+'''
 
 # Basic example for for loop and range function
 for i in range(1, 5):
