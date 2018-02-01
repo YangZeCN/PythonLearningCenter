@@ -1,2 +1,2 @@
 # PythonLearningCenter
-This is a repository used to store the code I test during learning Python
+This is a repository for the test code/example I used during learning Python
