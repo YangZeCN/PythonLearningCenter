@@ -5,7 +5,7 @@ Created: 2018.02.01
 Last Modified:
 Version: V1.0
 Description:
-# An example for defualt argument, keyword argument, VarArgs parameters, etc.
+# An example for default argument, keyword argument, VarArgs parameters, etc.
 '''
 
 def default_argument(a, b, c=2, d='m'):
@@ -58,3 +58,6 @@ Jack 10
 Jerry 2
 Tom 21
 '''
+
+# print the docstring of function defualt_argument
+print(default_argument.__doc__)
