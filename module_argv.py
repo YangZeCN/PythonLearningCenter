@@ -17,10 +17,10 @@ print(sys.argv)
 for i in sys.argv:
     print(i)
 
-'''If we use 'python xx/module_argv.py -a -l' to call this file,
+'''If we use 'python xx\\module_argv.py -a -l' to call this file,
 the result printed will be
-    ['xx\module_argv.py', '-a', '-l']
-    xx\module_argv.py
+    ['xx\\module_argv.py', '-a', '-l']
+    xx\\module_argv.py
     -a
     -l
 which means we can use sys.argv to get the command line argument'''
