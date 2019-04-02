@@ -2,7 +2,7 @@
 Name: function_global.py
 Author: Yang Ze
 Created: 2018.01.30
-Last Modified:
+Last Modified: 2019.04.02
 Version: V1.1
 Description: 
 # An example to define function and compare the
@@ -34,8 +34,8 @@ global_variable1()
 # print 2
 print(a)
 
-# print 10, the local one in globa_variable2()
+# print 10, the local one in global_variable2()
 global_variable2()
 
-# print 10, the global variable don't be changed
+# print 2, the global variable has be changed in global_variable1()
 print(a)
